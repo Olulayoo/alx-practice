@@ -2,7 +2,7 @@
 /**
  * main - entry point
  *
- *
+ * prints the size of various types on the computer it is complied and run on
  * Return: 0 after success
  */
 int main(void)
